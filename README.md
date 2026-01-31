@@ -43,5 +43,4 @@
 ---
 
 ### Github Stats 📊
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francokumichel&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francokumichel&layout=compact&theme=dark"/>
+![Stats](./profile/stats.svg)

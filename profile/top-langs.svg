@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="165"
-        viewBox="0 0 300 165"
+        height="375"
+        viewBox="0 0 300 375"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #41b883;
+            fill: #c792ea;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #273849;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #7fdbca;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #273849;
+      fill: #7fdbca;
     }
     .stagger {
       opacity: 0;
@@ -93,7 +93,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="299"
-          fill="#fffefe"
+          fill="#011627"
           stroke-opacity="1"
         />
 
@@ -118,76 +118,69 @@
           transform="translate(0, 55)"
         >
           
-    <svg data-testid="lang-items" x="25">
-      
-  
-      <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
-        </mask>
-        
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="0"
-          y="0"
-          width="73.51"
-          height="8"
+    <svg data-testid="lang-items">
+      <g transform="translate(0, 0)">
+        <svg data-testid="pie">
+          
+      <g class="stagger" style="animation-delay: 100ms">
+        <path
+          data-testid="lang-pie"
+          size="29.405958657559633"
+          d="M 150 100 L 240 100 A 90 90 0 0 1 125.40191160457478 186.5732871461564 Z"
           fill="#e34c26"
         />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="73.51"
-          y="0"
-          width="56.85"
-          height="8"
+      </g>
+    
+      <g class="stagger" style="animation-delay: 200ms">
+        <path
+          data-testid="lang-pie"
+          size="22.73905966857171"
+          d="M 150 100 L 125.40191160457478 186.5732871461564 A 90 90 0 0 1 60.816162755194256 87.90689558913834 Z"
           fill="#3572A5"
         />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="130.36"
-          y="0"
-          width="56.74"
-          height="8"
+      </g>
+    
+      <g class="stagger" style="animation-delay: 300ms">
+        <path
+          data-testid="lang-pie"
+          size="22.697549136170945"
+          d="M 150 100 L 60.816162755194256 87.90689558913834 A 90 90 0 0 1 149.10975449122085 10.004403091406203 Z"
           fill="#b07219"
         />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="187.10000000000002"
-          y="0"
-          width="33.49"
-          height="8"
+      </g>
+    
+      <g class="stagger" style="animation-delay: 400ms">
+        <path
+          data-testid="lang-pie"
+          size="13.394782587305363"
+          d="M 150 100 L 149.10975449122085 10.004403091406203 A 90 90 0 0 1 216.51863439483472 39.37598431111386 Z"
           fill="#663399"
         />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="220.59000000000003"
-          y="0"
-          width="15.58"
-          height="8"
+      </g>
+    
+      <g class="stagger" style="animation-delay: 500ms">
+        <path
+          data-testid="lang-pie"
+          size="6.231089646350763"
+          d="M 150 100 L 216.51863439483472 39.37598431111386 A 90 90 0 0 1 234.61864843063807 69.34572888206162 Z"
           fill="#555555"
         />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="236.17000000000004"
-          y="0"
-          width="13.83"
-          height="8"
+      </g>
+    
+      <g class="stagger" style="animation-delay: 600ms">
+        <path
+          data-testid="lang-pie"
+          size="5.531560304041588"
+          d="M 150 100 L 234.61864843063807 69.34572888206162 A 90 90 0 0 1 240 99.9999999999999 Z"
           fill="#f1e05a"
         />
-      
-      
-    <g transform="translate(0, 25)">
-      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+      </g>
+    
+        </svg>
+      </g>
+      <g transform="translate(0, 220)">
+        <svg data-testid="lang-names" x="25">
+          <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
@@ -230,8 +223,8 @@
       </text>
     </g>
   </g></g>
-    </g>
-  
+        </svg>
+      </g>
     </svg>
   
         </g>

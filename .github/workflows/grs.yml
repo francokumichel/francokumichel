@@ -35,6 +35,7 @@ jobs:
       - name: generate wakatime card
         uses: readme-tools/github-readme-stats-action@v1
         with:
+          card: wakatime
           options: username=${{ secrets.WAKATIME_USERNAME }}&layout=compact&theme=vue
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}

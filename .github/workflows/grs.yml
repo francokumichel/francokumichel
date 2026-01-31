@@ -1,6 +1,11 @@
 name: Update README cards
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/grs.yml'
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
@@ -15,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=vue
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -23,18 +28,16 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact
+          options: username=${{ github.repository_owner }}&layout=compact&theme=vue
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: generate wakatime card
+        uses: readme-tools/waka-readme-stats-action@v1
         with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=${{ github.event.repository.name }}
-          path: profile/pin-${{ github.repository_owner }}-${{ github.event.repository.name }}.svg
+          options: username=${{ secrets.WAKATIME_USERNAME }}&layout=compact&theme=vue
+          path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
 
       - name: Commit cards
         run: |

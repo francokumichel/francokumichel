@@ -43,6 +43,10 @@
 ---
 
 ### Github Stats 📊
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Waka time](./profile/wakatime.svg)
+
+<a href="./profile/stats.svg">
+    <img height=200 align="center" src="./profile/stats.svg">
+</a>
+<a href="./profile/top-langs.svg">
+    <img height=200 align="center" src="./profile/top-langs.svg">
+</a>

@@ -41,5 +41,5 @@
     <img height=200 align="center" src="./profile/stats.svg">
 </a>
 <a href="./profile/top-langs.svg">
-    <img height=200 align="center" src="./profile/top-langs.svg">
+    <img height=300 width=300 align="center" src="./profile/top-langs.svg">
 </a>

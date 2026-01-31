@@ -29,13 +29,6 @@
 
 ---
 
-### Proyectos Destacados ⭐
-- 📈 **[Análisis Climático ENSO](link-a-tu-repo)**: Solución de BI con DuckDB y Streamlit.
-- 🏥 **[MoSame](link-a-tu-repo)**: Gestión de datos institucionales (PBA) con Flask y Vue.
-- 📦 **[Microservicios E-commerce](link-a-tu-repo)**: Arquitectura escalable con testing automatizado.
-
----
-
 ### Contacto 📫
 <a href="https://www.linkedin.com/in/franco-leandro-kumichel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:francokumichel1996@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>

@@ -47,9 +47,9 @@ Soy alguien que le apasiona investigar: cuando surge una idea o un desafío, ana
 
 ## Contacto 📫
 <a title="Linkedin" href="https://www.linkedin.com/in/franco-leandro-kumichel/">
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
-<a title="Gmail" href="mailto:francokumichel1996@gmail.com"><img height=40 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
+<a title="Gmail" href="mailto:francokumichel1996@gmail.com"><img height=30 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
 
 ## Github Stats 📊
 

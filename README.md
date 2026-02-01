@@ -51,8 +51,10 @@
 ---
 
 ### Contacto 📫
-<a href="https://www.linkedin.com/in/franco-leandro-kumichel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:francokumichel1996@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a title="Linkedin" href="https://www.linkedin.com/in/franco-leandro-kumichel/">
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+<a title="Gmail" href="mailto:francokumichel1996@gmail.com"><img height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
 
 ---
 

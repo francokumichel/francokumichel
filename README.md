@@ -1,9 +1,9 @@
-# Hola, soy Franco! 🙋‍♂️ 
+# Hola, soy Fran! 🙋‍♂️ 
 ### Desarrollador
 **Estudiante de Licenciatura en Informática (UNLP)**
 
 ## Sobre mí
-¡Hola! Soy Fran y me apasiona investigar: cuando surge una idea o un desafío, analizo diferentes caminos y soluciones creativas para elegir la que mejor se aplica a la situación, aportando siempre mi impronta personal y un fuerte compromiso con la excelencia técnica y la calidad. Aunque me desempeño con solidez en todo el ciclo de vida del desarrollo de software, mi verdadera pasión está en el mundo de los datos. Me motiva sumergirme en problemas complejos para identificar patrones donde otros ven ruido, utilizando el rigor estadístico adquirido a lo largo de mi formación académica y personal, para transformar grandes volúmenes de información en decisiones estratégicas.
+Soy alguien que le apasiona investigar: cuando surge una idea o un desafío, analizo diferentes caminos y soluciones creativas para elegir la que mejor se aplica a la situación, aportando siempre mi impronta personal y un fuerte compromiso con la excelencia técnica y la calidad. Si bien me desempeño con solidez en todo el ciclo de vida del desarrollo de software, mi verdadera pasión está en el mundo de los datos. Me motiva sumergirme en problemas complejos para identificar patrones donde otros ven ruido, usando el rigor estadístico adquirido a lo largo de mi formación académica y personal, para así transformar grandes volúmenes de información en decisiones estratégicas.
 
 ## Stack Tecnológico 🛠
 
@@ -47,9 +47,9 @@
 
 ## Contacto 📫
 <a title="Linkedin" href="https://www.linkedin.com/in/franco-leandro-kumichel/">
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
-<a title="Gmail" href="mailto:francokumichel1996@gmail.com"><img height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
+<a title="Gmail" href="mailto:francokumichel1996@gmail.com"><img height=40 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
 
 ## Github Stats 📊
 
@@ -58,4 +58,4 @@
 </a>
 <a href="./profile/top-langs.svg">
     <img height=300 width=300 align="center" src="./profile/top-langs.svg">
-</a>
+</a>s 

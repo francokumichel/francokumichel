@@ -2,12 +2,8 @@
 ### Desarrollador
 **Estudiante de Licenciatura en Informática (UNLP)**
 
----
-
 ## Sobre mí
 ¡Hola! Soy Fran y me apasiona investigar: cuando surge una idea o un desafío, analizo diferentes caminos y soluciones creativas para elegir la que mejor se aplica a la situación, aportando siempre mi impronta personal y un fuerte compromiso con la excelencia técnica y la calidad. Aunque me desempeño con solidez en todo el ciclo de vida del desarrollo de software, mi verdadera pasión está en el mundo de los datos. Me motiva sumergirme en problemas complejos para identificar patrones donde otros ven ruido, utilizando el rigor estadístico adquirido a lo largo de mi formación académica y personal, para transformar grandes volúmenes de información en decisiones estratégicas.
-
----
 
 ## Stack Tecnológico 🛠
 
@@ -48,15 +44,12 @@
 <a href="https://behave.readthedocs.io/" title="Behave BDD"><img height="50" src="https://camo.githubusercontent.com/3bde5fe6e4f01127d1eebfd47c2040bb5405bc444985f23bbfe99b4745c6d368/68747470733a2f2f7261772e6769746875622e636f6d2f6265686176652f6265686176652f6d61737465722f646f63732f5f7374617469632f6265686176655f6c6f676f312e706e67"></a>
 <a href="https://github.com/features/actions" title="GitHub Actions"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" /></a>
 <a href="https://www.docker.com/" title="Docker"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>          
----
 
 ## Contacto 📫
 <a title="Linkedin" href="https://www.linkedin.com/in/franco-leandro-kumichel/">
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 <a title="Gmail" href="mailto:francokumichel1996@gmail.com"><img height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
-
----
 
 ## Github Stats 📊
 
